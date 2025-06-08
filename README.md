@@ -2,7 +2,7 @@
 
 **Computer Engineer | AI Enthusiast | Backend Developer**  
 
-📍 Istanbul, Turkey  
+📍 Bursa, Turkey  
 📧 suheda.gocmen@hotmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/gocmensuheda) | [GitHub](https://github.com/gocmensuheda)  
 
