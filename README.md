@@ -1,16 +1,45 @@
-## Hi there 👋
+# 💻 Suheda Gocmen  
 
-<!--
-**gocmensuheda/gocmensuheda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineer | AI Enthusiast | Backend Developer**  
 
-Here are some ideas to get you started:
+📍 Istanbul, Turkey  
+📧 suheda.gocmen@hotmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/gocmensuheda) | [GitHub](https://github.com/gocmensuheda)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+
+I am a **Computer Engineering graduate** with a strong foundation in programming and a deep passion for **machine learning**.  
+I have experience in **backend development** using **Java & Spring Boot**, and I contribute to AI projects through **data labeling**.  
+Additionally, I write **technology-focused content**, making complex AI concepts accessible to a wider audience.  
+
+---
+
+## 🔧 Skills  
+
+- **Programming Languages:** Java, Python  
+- **Backend Development:** Spring Boot, PostgreSQL, MySQL  
+- **Tools & Technologies:** Git, Docker, React  
+- **AI & Machine Learning:** TensorFlow, Data Labeling  
+- **Languages:** Turkish (Native), English (Beginner), Azerbaijani (Proficient)  
+
+---
+
+## 📌 Projects  
+
+### 🚗 **Car Rental System**  
+Developed a **terminal-based car rental system** using **Java 21 & PostgreSQL**, implementing secure authentication, layered architecture, and advanced filtering options.  
+
+### 🤖 **AI Data Labeling**  
+Worked on **high-quality dataset creation** for machine learning models, ensuring accuracy and consistency in AI-driven applications.  
+
+---
+
+## 📫 Contact Me  
+
+💬 Feel free to reach out for collaboration or discussions on AI and backend development!  
+📧 Email: suheda.gocmen@hotmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/suhedagocmen) | [GitHub](https://github.com/suhedagocmen)  
+
+---
